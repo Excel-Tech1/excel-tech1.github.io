@@ -53,6 +53,17 @@ defaults:
     values:
       css: "custom"
 
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /blog/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
