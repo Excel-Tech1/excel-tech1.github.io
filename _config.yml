@@ -19,7 +19,7 @@ plugins:
   - jekyll-feed
 
 # Site navigation (correct format for Minimal Mistakes)
-navigation:
+main:
   - title: "Home"
     url: /
   - title: "Portfolio"
