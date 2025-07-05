@@ -54,7 +54,7 @@ defaults:
       css: "custom"
 
 # Navigation links
-nav:
+navigation:
   - title: "Home"
     url: /
   - title: "Portfolio"
@@ -63,6 +63,7 @@ nav:
     url: /projects/
   - title: "Blog"
     url: /blog/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
