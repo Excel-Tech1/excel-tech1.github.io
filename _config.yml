@@ -53,8 +53,8 @@ defaults:
     values:
       css: "custom"
 
-# Navigation links
-navigation:
+# Navigation
+nav:
   - title: "Home"
     url: /
   - title: "Portfolio"
@@ -63,6 +63,20 @@ navigation:
     url: /projects/
   - title: "Blog"
     url: /blog/
+
+# Enable the nav in the layout
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  show_overlay_excerpt: false
+  actions:
+    - label: "Portfolio"
+      url: /portfolio/
+    - label: "Projects"
+      url: /projects/
+    - label: "Blog"
+      url: /blog/
+
 
 
 # Exclude from processing.
