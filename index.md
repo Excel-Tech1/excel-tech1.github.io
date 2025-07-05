@@ -1,16 +1,9 @@
 ---
-layout: splash
-title: "Welcome"
+layout: home
+title: "Excellence Emmanuel Jnr"
 permalink: /
-author_profile: true
 ---
 
-Welcome to my personal cybersecurity space.  
-🔐 Blue Team • SOC • Threat Intel • Hands-on Projects • Blogs
-
-Explore:
-
-- [Portfolio](/portfolio/)
-- [Projects](/projects/)
-- [Blog](/blog/)
+Welcome to my personal cybersecurity portfolio.  
+🔐 Blue Team | SOC | Threat Intel | Projects & Blog
 
