@@ -4,4 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-Here you'll find detailed walkthroughs of my cybersecurity hands-on projects — tools used, analysis, screenshots, and reports.
+Welcome to my cybersecurity project lab.
+
+Here, I document hands-on project walkthroughs, tools used, insights, and links to source code or reports.
