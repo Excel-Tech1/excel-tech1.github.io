@@ -29,9 +29,29 @@ twitter_username: Cyber_Xcellence
 github_username: Excel-Tech1
 
 # Build settings
-theme: minima
+theme: null
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
+
 plugins:
+  - jekyll-remote-theme 
+  - jekyll-include-cache
   - jekyll-feed
+   
+collections:
+  pages:
+    output: true
+
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "custom"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
